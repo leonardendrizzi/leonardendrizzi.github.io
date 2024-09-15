@@ -23,6 +23,10 @@ navigation:
       url: /index.html
     - title: Blog
       url: /blog
+    - title: Research
+      url: /research
+    - title: Teaching
+      url: /teaching
     - title: About Me
       url: /about
     - title: Contact
