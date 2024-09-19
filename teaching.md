@@ -1,1 +1,1 @@
-- <span style="color:blue"> *Macroeconomics* text</span>
+- <span style="color:blue"> *Macroeconomics*</span>
