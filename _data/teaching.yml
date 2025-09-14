@@ -1,0 +1,13 @@
+courses:
+  - title: "Macroeconomics (PSME · 2025)"
+    blurb: "Tutorials for the Macroeconomics course of Panthéon Sorbonne MSc. in Economics."
+    weeks:
+      - title: "Week 1 — System of National Accounts"
+        files:
+          - {label: "Tutorial 1 (PDF)", path: "/assets/teaching/macro-2025/week1/TD1.pdf"}
+
+previous_courses:
+  - title: "Macroeconomics (PSME · 2024)"
+    blurb: "Tutorials for the Macroeconomics course of Panthéon Sorbonne MSc. in Economics."
+    notes: "Material available upon request."
+
