@@ -4,8 +4,6 @@ description: Personal Website of Leonardo Endrizzi
 url: https://leonardendrizzi.github.io
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: "" # Leave empty for the root
-url: "http://localhost:4000" # For local development
-baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
