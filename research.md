@@ -7,11 +7,12 @@ permalink: /research/
 # Research
 
 ---
-
+{% comment %}
 ### Working Papers
 _(hopefully) coming soon_
 
 ---
+{% endcomment %}
 
 ### Work in Progress
 

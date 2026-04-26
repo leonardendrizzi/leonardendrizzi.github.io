@@ -1,7 +1,8 @@
 wip:
-  - title: "Optimal Taxation and Tax Avoidance"
+  - title: "Scale Dependence and Optimal Taxation"
     coauthors:
       - { name: "Theo Palomo", url: "https://sites.google.com/view/theopalomo/home" }
-  - title: "Exchange Rate Policy with Household Heterogeneity and Financial Frictions"
+  - title: "Optimal Exchange Rate Policy with Heterogeneous Exposure"
     coauthors:
+      - { name: "Edouard Challe", url: "https://sites.google.com/site/edouardchalle/" }
       - { name: "Juan Pablo Ugarte C.", url: "https://sites.google.com/view/juanpablougarte" }

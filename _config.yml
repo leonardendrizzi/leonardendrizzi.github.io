@@ -23,16 +23,16 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: Blog
-      url: /blog
+    #- title: Blog
+    #  url: /blog
     - title: Research
       url: /research
     - title: Teaching
       url: /teaching
-    #- title: CV
-    #  url: /cv
-    - title: About Me
-      url: /about
+    - title: CV
+      url: /assets/cv/Leonardo_Endrizzi_CV.pdf
+    #- title: About Me
+    #  url: /about
     #- title: Contact
     #  url: /contact
 

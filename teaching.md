@@ -7,7 +7,7 @@ permalink: /teaching/
 # Teaching
 
 {% for course in site.data.teaching.courses %}
-### {{ course.title }}
+<h3 class="teaching-course-title">{{ course.title }}</h3>
 {{ course.blurb }}
 
 {% for week in course.weeks %}
