@@ -53,6 +53,23 @@ HOMEPAGE STYLING
 	}
 }
 
+.home-intro {
+	flex-direction: row;
+	align-items: center;
+	gap: 0;
+}
+
+.profile-photo {
+	width: 150px;
+	margin-right: 20px;
+}
+
+.home-bio {
+	font-size: 1em;
+	line-height: 1.75;
+	text-align: justify;
+}
+
 
 /***************
 HEADER STYLING

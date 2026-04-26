@@ -176,6 +176,30 @@ PAGE STYLES
 }
 
 /***************
+HOMEPAGE STYLING
+***************/
+
+.home-intro {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
+
+.profile-photo {
+	width: 130px;
+	height: auto;
+	border-radius: 50%;
+}
+
+.home-bio {
+	font-size: 0.95em;
+	line-height: 1.65;
+	text-align: left;
+	hyphens: auto;
+}
+
+/***************
 HEADER STYLING
 ***************/
 
