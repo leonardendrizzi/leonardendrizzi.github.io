@@ -1,5 +1,5 @@
 courses:
-  - title: "Heterogeneous Agents in Continuous TIME (PSE · 2025) - Prof. Riccardo Cioffi"
+  - title: "Heterogeneous Agents in Continuous Time (PSE · 2025) - Prof. Riccardo Cioffi"
     blurb: "Tutorial sessions in Julia for solving heterogeneous-agent models in continuous time."
   - title: "Macroeconomics (PSME · 2025, 2024) - Prof. Elizaveta Burina"
     blurb: "Tutorial sessions with exercises and Python code for solving and simulating macroeconomic models."
