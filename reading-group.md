@@ -24,7 +24,7 @@ title: Reading Group
 	<p>
 		<strong>Format:</strong> Monthly meetings of 1 hour and 30 minutes.<br>
 		<strong>Venue:</strong> Meetings are held at the Paris School of Economics and other participating Paris-based universities. Remote participation via Zoom is available upon request.<br>
-		<strong>Coordinators:</strong> Félix Ranson and Leonardo Endrizzi.
+		<strong>Organized by:</strong> Félix Ranson and Leonardo Endrizzi.
 	</p>
 
 	<p>
