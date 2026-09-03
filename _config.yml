@@ -27,6 +27,8 @@ navigation:
       url: /research
     - title: Teaching
       url: /teaching
+    - title: Reading Group
+      url: /reading-group
     - title: CV
       url: /assets/cv/Leonardo_Endrizzi_CV.pdf
     #- title: About Me

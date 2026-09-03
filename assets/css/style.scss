@@ -32,4 +32,43 @@
 	@import "breakpoints/1200up";
 }
 
+.reading-group {
+	p {
+		font-size: 1.075em;
+	}
+
+	.description {
+		text-align: justify;
+	}
+
+	.pageTitle {
+		font-size: 2em;
+	}
+
+	h3 {
+		font-size: 1.25em;
+	}
+}
+
+@media only screen and (min-width: 800px) {
+	.reading-group {
+		h1,
+		h2,
+		h3,
+		h4,
+		p,
+		ul,
+		ol,
+		dl,
+		.pageTitle {
+			width: 90%;
+		}
+
+		.pageTitle,
+		h3 {
+			white-space: nowrap;
+		}
+	}
+}
+
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
