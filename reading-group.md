@@ -50,4 +50,13 @@ title: Reading Group
 	<p>
 		<a href="{{ '/assets/reading-group/sentiments.pdf' | relative_url }}">View presentation (PDF)</a>
 	</p>
+
+	<h3>Inflation is Conflict and Wage-Price Spirals</h3>
+	<p>
+		Lorenzoni &amp; Werning (2023), presented by Judith Kleman<br>
+		March 11, 2026
+	</p>
+	<p>
+		<a href="{{ '/assets/reading-group/inflation_as_conflict.pdf' | relative_url }}">View presentation (PDF)</a>
+	</p>
 </div>
