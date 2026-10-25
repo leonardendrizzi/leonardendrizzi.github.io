@@ -31,17 +31,17 @@ title: Reading Group
 		<a class="button" href="{{ '/assets/reading-group/reading-group-description.pdf' | relative_url }}">Read the full description (PDF)</a>
 	</p>
 
-	<h2>Next session</h2>
+	<h2>Presentations</h2>
 
 	<h3>Paradoxes and Problems in the Causal Interpretation of Equilibrium Economics</h3>
 	<p>
 		Dogra, K. (2024). <em>Staff Reports</em>, Federal Reserve Bank of New York.<br>
 		<strong>Presenter:</strong> Félix Ranson<br>
-		<strong>When:</strong> Wednesday, October 21, 2026, at 5:30 p.m.<br>
-		<strong>Where:</strong> Room R1-14.
+		October 21, 2026
 	</p>
-
-	<h2>Presentations</h2>
+	<p>
+		<a href="{{ '/assets/reading-group/dogra.pdf' | relative_url }}">View presentation (PDF)</a>
+	</p>
 
 	<h3>Pricing and Production Without the Invisible Hand</h3>
 	<p>
